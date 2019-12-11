@@ -20,7 +20,7 @@ import cucumber.api.java.en.When;
 import io.restassured.RestAssured;
 import junit.framework.Assert;
 import pageobject.documentationpage;
-import supportLibraries.JSWaiter;
+
 import supportLibraries.webdriverfactory;
 
 public class steps  {
